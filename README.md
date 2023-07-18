@@ -4,7 +4,7 @@
 
 ## Développeur Web Full Stack passionné
 
-<img align="right" src="https://raw.githubusercontent.com/username/username/main/assets/undraw_web_developer_p3e5.png" width="350">
+<img align="right" src="https://drive.google.com/file/d/1dAmhEmyWRt8uczYYj41SYwEYExuMN6PA/view?usp=sharing" width="350">
 
 Je suis un développeur web full stack passionné par la création d'applications web innovantes et conviviales. J'ai une solide expérience dans la construction de solutions complètes, de la conception de l'interface utilisateur au développement back-end. Ma passion pour la technologie me pousse à rester à jour avec les dernières tendances et à rechercher en permanence de nouvelles façons d'améliorer mes compétences.
 
@@ -24,7 +24,7 @@ N'hésitez pas à explorer mon profil pour découvrir davantage de projets passi
 
 ## Illustration
 
-<img align="right" src="https://raw.githubusercontent.com/username/username/main/assets/undraw_code_review_l1q9.png" width="400">
+<img align="right" src="https://drive.google.com/file/d/1arhdvJYgh-_TRr8xjGAVJYMklzbUrnK9/view?usp=sharing" width="400">
 
 ## Portfolio
 
