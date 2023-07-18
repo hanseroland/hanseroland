@@ -4,7 +4,7 @@
 
 ## Développeur Web Full Stack passionné
 
-<img align="right" src="https://drive.google.com/file/d/1dAmhEmyWRt8uczYYj41SYwEYExuMN6PA/view?usp=sharing" width="350">
+<img align="right" src="https://github.com/hanseroland/hanseroland/blob/main/Code%20typing-bro.png" width="350">
 
 Je suis un développeur web full stack passionné par la création d'applications web innovantes et conviviales. J'ai une solide expérience dans la construction de solutions complètes, de la conception de l'interface utilisateur au développement back-end. Ma passion pour la technologie me pousse à rester à jour avec les dernières tendances et à rechercher en permanence de nouvelles façons d'améliorer mes compétences.
 
