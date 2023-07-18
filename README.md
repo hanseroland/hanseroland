@@ -24,7 +24,7 @@ N'hésitez pas à explorer mon profil pour découvrir davantage de projets passi
 
 ## Illustration
 
-<img align="right" src="https://drive.google.com/file/d/1arhdvJYgh-_TRr8xjGAVJYMklzbUrnK9/view?usp=sharing" width="400">
+<img align="right" src="https://github.com/hanseroland/hanseroland/blob/main/monportfolio.PNG" width="400">
 
 ## Portfolio
 
