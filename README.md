@@ -1,5 +1,3 @@
-Voici une version **actualisée, plus stratégique et orientée recrutement** de ton README GitHub, en tenant compte :
-
 * ✅ 3 ans d’expérience MERN
 * ✅ Spécialisation Chatbots & IA
 * ✅ SEO
@@ -8,6 +6,15 @@ Voici une version **actualisée, plus stratégique et orientée recrutement** de
 * ✅ Projets récents structurés et professionnels
 
 ---
+
+# 🌐 Nouveau Portfolio
+
+Découvrez mes projets, mon parcours et mes réalisations :
+
+👉 **[https://www.hanseroland.com/](https://www.hanseroland.com/)**
+
+---
+
 
 # 👋 Bonjour, je suis NGUEMA NTOUGOU Hanse R.P.
 
@@ -154,14 +161,6 @@ Architecture complète :
 📂 [https://github.com/hanseroland/systemeSolaire](https://github.com/hanseroland/systemeSolaire)
 
 Application React + Three.js avec rendu 3D interactif.
-
----
-
-# 🌐 Nouveau Portfolio
-
-Découvrez mes projets, mon parcours et mes réalisations :
-
-👉 **[https://www.hanseroland.com/](https://www.hanseroland.com/)**
 
 ---
 
