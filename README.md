@@ -1,11 +1,9 @@
-* ✅ 3 ans d’expérience MERN
-* ✅ Spécialisation Chatbots & IA
+* ✅ 3 ans d’expérience MERN et Wordpress
+* ✅ Intégration d'API IA
 * ✅ SEO
 * ✅ Recherche CDI / CDD / Remote / Freelance
 * ✅ Nouveau portfolio
-* ✅ Projets récents structurés et professionnels
 
----
 
 # 🌐 Nouveau Portfolio
 
@@ -50,11 +48,13 @@ J’interviens sur toute la chaîne de valeur :
 
 * React.js (18+)
 * Next.js
-* React Native
+* Vite.js
+* Expo - React Native
 * Redux
 * Material UI (MUI)
 * Bootsrap
 * HTML5 / CSS3 / JavaScript ES6+
+* Wordpress
 
 ### ⚙️ Backend
 
@@ -178,13 +178,7 @@ Je suis ouvert aux collaborations, opportunités tech et projets ambitieux.
 
 ✔️ Vision produit
 ✔️ Code propre & maintenable
-✔️ Architecture scalable
 ✔️ Intégration IA stratégique
 ✔️ Performance & SEO
 ✔️ Autonomie & leadership technique
 
----
-
-> "Build clean. Scale smart. Think product."
-
----
