@@ -18,7 +18,7 @@ Découvrez mes projets, mon parcours et mes réalisations :
 
 ![Bannière](https://img.shields.io/badge/Full%20Stack%20Engineer-MERN%20%7C%20AI%20%7C%20SEO%20%7C%20Mobile-brightgreen)
 
-## 🚀 Software Engineer | MERN Stack | AI & Chatbots | SEO Specialist
+## 🚀 Software Engineer | MERN Stack | SEO Specialist
 
 <img align="right" src="https://github.com/hanseroland/hanseroland/blob/main/Code%20typing-bro.png" width="350">
 
