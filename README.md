@@ -1,5 +1,5 @@
 * ✅ 3 ans d’expérience MERN et Wordpress
-* ✅ Intégration d'API IA
+* ✅ Intégration d'API
 * ✅ SEO
 * ✅ Recherche CDI / CDD / Remote / Freelance
 * ✅ Nouveau portfolio
