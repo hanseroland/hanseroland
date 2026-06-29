@@ -1,4 +1,4 @@
-# 👋 Hanse Roland — Développeur Full-Stack MERN
+# 👋 Hanse Roland Parfait — Développeur Full-Stack MERN
 
 **Clean Architecture · Docker · IA · SEO Technique**
 
