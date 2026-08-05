@@ -27,7 +27,7 @@ Je construis des produits SaaS robustes en appliquant **Clean Architecture**, **
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-blue?style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![Intégration IA](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 
 **Bases de données**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
