@@ -1,13 +1,11 @@
-# Salut, je suis Hanse 👋
+# Salut, je suis Hanse Roland Parfait NGUEMA NTOUGOU 👋
 
-Développeur **Full-Stack MERN** (~3 ans d'expérience), ancien Tech Lead au Cabinet Carrée, basé à Dakar 🇸🇳.
-Je construis des produits SaaS robustes en appliquant **Clean Architecture**, **Clean Code** et les principes **SOLID**.
+Développeur Web/Mobile **Full-Stack MERN** (~3 ans d'expérience), ancien Tech Lead au Cabinet Carrée, basé à Dakar 🇸🇳.
+Je construis des produits des robustes en appliquant **Clean Architecture**, **Clean Code** et les principes **SOLID**.
 
 🌍 Ouvert aux opportunités en **CDI, CDD ou freelance** — à distance ou en présentiel à Libreville, Gabon.
 
 ---
-
-## 🛠️ Stack technique
 
 ## 🛠️ Stack technique
 
